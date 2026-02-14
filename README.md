@@ -1,4 +1,4 @@
-# Netlify and Ably
+# Netlify and Ablyy
 
 A GitHub template to quickly get started with Ably, hosted on Netlify, using TypeScript.
 
